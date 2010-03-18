@@ -1,0 +1,5 @@
+This is package 'xorg-server'.
+
+This contains the Xsdl binary primarily.
+
+It also has the xkbcomp binary, as well as /share resources for the xkb stuff.
