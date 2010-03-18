@@ -17,7 +17,6 @@ Xsdl -noreset -nolisten tcp -retro -screen 320x480x24 $DISPLAY &
 
 sleep 1
 xkbcomp -R$KEYMAP_DIR palm-pre $DISPLAY
-wait
 
 #XXX: Add code that runs ~/.xinitrc or /media/internal/xinitrc if it exists?
 
